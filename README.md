@@ -4,7 +4,7 @@ ECE 385: Digital Systems Laboratory is host by UIUC. This repository is supporte
 
 The repository contains all manuals, codes, and report for every lab. All labs are mainly programmed by SystemVerilog on Quartus, some IO parts for Avalon bus are programmed in C.
 
-In the final project we complemented a simplified version of Metal Slug, a classic pixel style shooting game. We accomplished two modes, the original PvE mode and our own PvP mode. The controls are as below:
+In the final ECE 385 project we complemented a simplified version of Metal Slug, a classic pixel style shooting game. We accomplished two modes, the original PvE mode and our own PvP mode. The controls are as below:
 
 ![bg_controls](FinalProject/images/bg_controls.png)
 
